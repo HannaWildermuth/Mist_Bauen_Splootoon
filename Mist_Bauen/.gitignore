@@ -1,11 +1,7 @@
-*
-
-!.gitignore
-!Assets/
-!Packages/
-!ProjectSettings/
-!UserSettings/
-!Library/
+.vscode/
+Logs/
+Packages/
+Temp/
 
 Library/Bee/
 Library/BuildInstructions/
